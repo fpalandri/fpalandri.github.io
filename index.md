@@ -9,7 +9,7 @@ Text
 
 ###### Small text grey
 
-![Image1](src1)
+![Image1](/image001.jpg)
 
 
 
