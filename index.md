@@ -17,4 +17,4 @@ Text
 
 Text
 
-![Image2](src2)
+![Image2](/map_india.png)
