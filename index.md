@@ -1,20 +1,26 @@
-This page presents examples of spatial visualizations of climate risk data. The maps were constructed in `R`. The original data source is [insert name](insert link).
+You will see a few examples of data visualisations for climate hazards. I produced these maps using code I wrote in `R` and open-source data (references below).
+
+
+### Flood hazard map 
+
+The data comes from the Aqueduct Floods dataset, (World Resources Institute & consortium)
+
+![Image1](/map_india.png)
+
 
 ### 1. Title of map #1
 
 Text
 
-    
 ##### Small text bold
 
 ###### Small text grey
 
-![Image1](/image001.jpg)
+![Image2](/image001.jpg)
 
 
-
-### 2. Title of map #2
+### Web app
 
 Text
 
-![Image2](/map_india.png)
+![Image3](/snap_app.png)
