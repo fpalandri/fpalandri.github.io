@@ -23,21 +23,22 @@ What you see below is the extent of flood under scenario 1.4, dubbed "extreme", 
 
 ![Image2](/image001.jpg)
 
-##### The [TRI map](http://www.driee.ile-de-france.developpement-durable.gouv.fr/tri-de-la-metropole-francilienne-a1769.html) for the Paris region (Territoires à risque important d’inondation, métropole francilienne) was built by the Préfecture d'Île-de-France and DRIEAT with support from French research laboratories. Documentation is available [here](http://webissimo.developpement-durable.gouv.fr/IMG/pdf/20170209_atlas_idf_a3_paysage_document_principal_cle5be11d.pdf).
+###### The [TRI map](http://www.driee.ile-de-france.developpement-durable.gouv.fr/tri-de-la-metropole-francilienne-a1769.html) for the Paris region (Territoires à risque important d’inondation, métropole francilienne) was built by the Préfecture d'Île-de-France and DRIEAT with support from French research laboratories. Documentation is available [here](http://webissimo.developpement-durable.gouv.fr/IMG/pdf/20170209_atlas_idf_a3_paysage_document_principal_cle5be11d.pdf).
 
 
 
 ### Web application: an interactive hazard map showing critical infrastructure
 
-This is a snapshot of a web application I developed using open source data on climate hazards, biodiversity and energy & industry infrastructure. A dashboard in another tab computes statistics on the exposure of infrastructure to the climate hazard selected by the user.
+This is a snapshot of a web application I developed using open source data on climate hazards, biodiversity and energy & industry infrastructure. 
 
-##### Just before this snapshot was taken, a bunch of layers for the South-Eastern region of France were selected.
+###### Just before this snapshot was taken, a bunch of layers for the South-Eastern region of France were selected.
+
+###### A dashboard in another tab computes statistics on the exposure of infrastructure to the climate hazard selected by the user.
 
 ![Image3](/snap_app.png)
 
-##### Data for this web app comes from various plaforms managed by services of the French administration ([DataSud](https://www.datasud.fr/), [GeoIDE](http://carto.geo-ide.application.developpement-durable.gouv.fr/1131/environnement.map), [GeoRisques](https://www.georisques.gouv.fr/donnees/bases-de-donnees)) and from the International Union for Conservation of Nature's (IUCN) World Database on Protected Areas [(WDPA)](https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa). 
-Base layers are from OpenStreetMap and Stamen.
-
+###### Data for this web app comes from various data plaforms managed by services of the French administration ([DataSud](https://www.datasud.fr/), [GeoIDE](http://carto.geo-ide.application.developpement-durable.gouv.fr/1131/environnement.map), [GeoRisques](https://www.georisques.gouv.fr/donnees/bases-de-donnees)) and from the International Union for Conservation of Nature's (IUCN) World Database on Protected Areas [(WDPA)](https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa). 
+###### Base layers are from OpenStreetMap and Stamen.
 
 
 ### Drought as modelled by CNRM
