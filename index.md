@@ -4,9 +4,28 @@ What you will find here are a few examples of physical climate risk maps.
 
 ###### *webpage under development*
 
+
+### Drought risk for power plants
+
+The maps below show the change in the drought index in France in winter over time (columns) and across climate scenarios (rows).
+
+![Image4](/drought.png)
+
+###### The larger the SPI (Standardized Precipitation Index), the more severe the drought. SPI was modelled by CNRM (Centre National de Recherches Météorologiques, led by Météo-France and CNRS) under the [CLIMSEC project](http://www.umr-cnrm.fr/spip.php?article605) (2007-2011) and made available via [DRIAS](http://www.drias-climat.fr/accompagnement/sections/187). It was modelled using C-MIP4 simulations and CNRM's hydrometeorological model. CLIMSEC documentation is [here](http://www.umr-cnrm.fr/IMG/pdf/2011_fmaif_rapport_final_v2.2.pdf).
+
+###### Whenever data was available, the multi-model mean was computed (i.e. mean of respective changes in SPI as projected by CNRM-ARPEGE, MPI-ECHAM5 and CCCMA-CGCM3). 
+
+###### Power-plant data comes from WRI's [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase).
+
+
+
+### Heatwave days as computed by ECMWF
+
+
+
 ### Flood hazard maps - Aqueduct
 
-These two maps show the extent of flood that will have a 1/10 chance of occurring in any given year (10-year return period, 10% AEP) around the 2050 horizon, according to climate simulations run using scenario RCP 8.5.
+These two maps show the extent of flood that will have a 1/10 chance of occurring in any given year around the 2050 horizon, according to climate simulations run using scenario RCP 8.5.
 
 ![Image1](/map_india.png)
 
@@ -14,7 +33,7 @@ These two maps show the extent of flood that will have a 1/10 chance of occurrin
 
 ###### Data for this map comes from the [Aqueduct Floods](https://www.wri.org/aqueduct/floods) research programme, conducted by the World Resources Institute (WRI) & a consortium of partners. Relevant documentation is [here](https://www.wri.org/research/aqueduct-floods-methodology).
 
-###### Flood risk linked to subsidence was included. The multi-model mean - using projections from all 5 General Circulation Models (GCMs) - was calculated for riverine flood. The 95th percentile was selected for coastal flood. Version #2 of Aqueduct Floods - released 10/2020 - was used.
+###### Flood risk linked to subsidence was included. The multi-model mean - using projections from all 5 General Circulation Models (GCMs) - was calculated for riverine flood. The 95th percentile was selected for coastal flood. Both maps show floods with a 10-year return period, i.e. 10% Annual Exceedance Probability (AEP). Version #2 of Aqueduct Floods - released 10/2020 - was used.
 
 
 ### High-resolution flood modelling over the Seine river basin
@@ -38,26 +57,6 @@ What you see below is the extent of flood under scenario 1.4, dubbed "extreme", 
 
 ###### Data for this web app comes from various data plaforms managed by services of the French administration ([DataSud](https://www.datasud.fr/), [GeoIDE](http://carto.geo-ide.application.developpement-durable.gouv.fr/1131/environnement.map), [GeoRisques](https://www.georisques.gouv.fr/donnees/bases-de-donnees)) and from the International Union for Conservation of Nature's (IUCN) World Database on Protected Areas [(WDPA)](https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa). 
 ###### Base layers are provided by OpenStreetMap and Stamen.
-
-
-### Drought risk for power plants
-
-The maps below show the change in the drought index in France in winter over time (columns) and across climate scenarios (rows).
-
-![Image4](/drought.png)
-
-###### The larger the SPI (Standardized Precipitation Index), the more severe the drought. SPI was modelled by CNRM (Centre National de Recherches Météorologiques, led by Météo-France and CNRS) under the [CLIMSEC project](http://www.umr-cnrm.fr/spip.php?article605) (2007-2011) and made available via [DRIAS](http://www.drias-climat.fr/accompagnement/sections/187). It was modelled using C-MIP4 simulations and CNRM's hydrometeorological model. CLIMSEC documentation is [here](http://www.umr-cnrm.fr/IMG/pdf/2011_fmaif_rapport_final_v2.2.pdf).
-
-###### Whenever data was available, the multi-model mean was computed (i.e. mean of respective changes in SPI as projected by CNRM-ARPEGE, MPI-ECHAM5 and CCCMA-CGCM3). 
-
-###### Power-plant data comes from WRI's [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase).
-
-
-
-### Heatwave days as computed by ECMWF
-
-
-https://datasets.wri.org/dataset/globalpowerplantdatabase
 
 
 
