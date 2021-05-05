@@ -11,7 +11,7 @@ The maps below show the change in the drought index in France in winter over tim
 
 ![Image4](/drought.png)
 
-###### The larger the SPI (Standardized Precipitation Index), the more severe the drought. SPI was modelled by CNRM (Centre National de Recherches Météorologiques, led by Météo-France and CNRS) under the [CLIMSEC project](http://www.umr-cnrm.fr/spip.php?article605) (2007-2011) and made available via [DRIAS](http://www.drias-climat.fr/accompagnement/sections/187). It was modelled using C-MIP4 simulations and CNRM's hydrometeorological model. CLIMSEC documentation is [here](http://www.umr-cnrm.fr/IMG/pdf/2011_fmaif_rapport_final_v2.2.pdf).
+###### The lower the SPI (Standardized Precipitation Index), the more severe the drought. SPI was modelled by CNRM (Centre National de Recherches Météorologiques, led by Météo-France and CNRS) under the [CLIMSEC project](http://www.umr-cnrm.fr/spip.php?article605) (2007-2011) and made available via [DRIAS](http://www.drias-climat.fr/accompagnement/sections/187). It was modelled using C-MIP4 simulations and CNRM's hydrometeorological model. CLIMSEC documentation is [here](http://www.umr-cnrm.fr/IMG/pdf/2011_fmaif_rapport_final_v2.2.pdf).
 
 ###### Whenever data was available, the multi-model mean was computed (i.e. mean of respective changes in SPI as projected by CNRM-ARPEGE, MPI-ECHAM5 and CCCMA-CGCM3). 
 
