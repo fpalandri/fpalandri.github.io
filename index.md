@@ -39,7 +39,7 @@ These maps of India and the Netherlands show the extent of a flood that will hav
 
 What you see below is the extent of flood under scenario 1.4, dubbed "extreme", as seen in a geobrowser. Darker colors depict higher levels of flood.
 
-![Image2](/image001.jpg)
+![Image2](/paris.jpg)
 
 ###### The [TRI map](http://www.driee.ile-de-france.developpement-durable.gouv.fr/tri-de-la-metropole-francilienne-a1769.html) for the Paris region (Territoires à risque important d’inondation, métropole francilienne) was built by the Préfecture d'Île-de-France and DRIEAT with support from French research laboratories. Documentation is available [here](http://webissimo.developpement-durable.gouv.fr/IMG/pdf/20170209_atlas_idf_a3_paysage_document_principal_cle5be11d.pdf).
 
