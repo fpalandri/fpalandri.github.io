@@ -17,11 +17,6 @@ These maps show the change in the drought index in France in winter over time (c
 
 
 
-### Heatwave days (ECMWF - EURO-CORDEX, Copernicus)
-
-_coming_
-
-
 ### Flood hazard maps - (WRI - Aqueduct)
 
 These maps of India and the Netherlands show the extent of a flood that will have a 1/10 chance of occurring in any given year around the 2050 horizon, according to a climate simulations run using scenario RCP 8.5.
