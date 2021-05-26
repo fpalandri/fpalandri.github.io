@@ -53,3 +53,7 @@ What you see below is the extent of flood under scenario 1.4, dubbed "extreme", 
 ###### Data for this web app comes from several data plaforms managed by services of the French administration ([DataSud](https://www.datasud.fr/), [GeoIDE](http://carto.geo-ide.application.developpement-durable.gouv.fr/1131/environnement.map), [GeoRisques](https://www.georisques.gouv.fr/donnees/bases-de-donnees)) and from the International Union for Conservation of Nature's (IUCN) World Database on Protected Areas [(WDPA)](https://www.iucn.org/theme/protected-areas/our-work/quality-and-effectiveness/world-database-protected-areas-wdpa). 
 ###### Base layers are provided by OpenStreetMap and Stamen.
 
+
+```{r echo=FALSE} 
+dim(iris) 
+```
