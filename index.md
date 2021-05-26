@@ -56,4 +56,6 @@ What you see below is the extent of flood under scenario 1.4, dubbed "extreme", 
 
 
 
-
+```{r, echo=TRUE}
+summary(cars)
+```
