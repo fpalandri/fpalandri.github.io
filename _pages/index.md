@@ -10,5 +10,6 @@ What you will find here are a few examples of physical climate risk maps. _- Thi
 
   - [Static maps](static_maps)
   - [Interactive globe](../docs/spiky_globe.html)
+  - [Test](../docs/test.html)
       
 
