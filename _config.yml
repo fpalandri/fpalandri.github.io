@@ -22,14 +22,10 @@ github_username:  fpalandri
 
 
 # Build settings
-#theme: jekyll-theme-midnight
 theme: minima
 
-#include:
-#  - _pages
 header_pages:
   - static_maps.md
-  - test.html
 
 # Exclude from processing.
 # Any item listed under the `exclude:` key here will be automatically added to
