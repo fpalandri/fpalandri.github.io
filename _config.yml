@@ -22,7 +22,8 @@ github_username:  fpalandri
 
 
 # Build settings
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+#theme: minima
 
 include:
   - _pages
