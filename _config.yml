@@ -28,7 +28,7 @@ theme: minima
 #include:
 #  - _pages
 header_pages:
-  - static_pages.md
+  - static_maps.md
   - test.html
 
 # Exclude from processing.
