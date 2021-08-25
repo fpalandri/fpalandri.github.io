@@ -6,7 +6,7 @@ header:
   image: /assets/images/header_image2.jpg
 toc: true
 toc_label: 	" Static maps"
-toc_icon: 	"map"
+toc_icon: 	"map" # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 
