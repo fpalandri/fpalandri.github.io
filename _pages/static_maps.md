@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Static maps
 permalink: /static_maps/
+header:
+  image: /assets/images/long_image.jpg
 ---
 
 
