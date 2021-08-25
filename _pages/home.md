@@ -15,5 +15,3 @@ They display several climate hazards at different points across space, time, cli
 
   - [Static maps](static_maps)
   - [Interactive maps](interactive_maps)
-      - [Dynamic globe](../docs/spiky_globe.html)
-      - [Flood depth simulations (RCP 8.5) - Netherlands](../docs/NL_flood.html)

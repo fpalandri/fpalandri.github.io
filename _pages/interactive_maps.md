@@ -7,5 +7,5 @@ header:
 ---
 
 
-### - [Dynamic globe](../docs/spiky_globe.html)
-### - [Flood depth simulations (RCP 8.5) - Netherlands](../docs/NL_flood.html)
+  - [Dynamic globe](../docs/spiky_globe.html)
+  - [Flood depth simulations (RCP 8.5) - Netherlands](../docs/NL_flood.html)
