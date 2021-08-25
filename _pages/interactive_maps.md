@@ -1,7 +1,7 @@
 ---
 title: Interactive maps
 author_profile: false
-permalink: /static_maps/
+permalink: /interactive_maps/
 header:
   image: /assets/images/header_image2.jpg
 ---
