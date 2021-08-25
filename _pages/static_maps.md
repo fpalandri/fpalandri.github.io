@@ -5,13 +5,13 @@ permalink: /static_maps/
 header:
   image: /assets/images/header_image2.jpg
 toc: true
-toc_label: 	"Static maps"
+toc_label: 	" Static maps"
 toc_icon: 	"map"
 ---
 
 
 
-# - Drought risk for power plants (CNRM - CLIMSEC)
+### - Drought risk for power plants
 
 These maps show the change in the drought index in France in winter over time (columns) and across climate scenarios (rows).
 
@@ -26,8 +26,7 @@ These maps show the change in the drought index in France in winter over time (c
 
 
 
-
-# - Flood hazard maps - (WRI - Aqueduct)
+### - Flood hazards
 
 These maps of India and the Netherlands show the extent of a flood that will have a 1/10 chance of occurring in any given year around the 2050 horizon, according to climate simulations run using scenario RCP 8.5.
 
@@ -35,7 +34,7 @@ These maps of India and the Netherlands show the extent of a flood that will hav
 
 ![Image1](../docs/map_nl.png)
 
-*Data for this map come from the [Aqueduct Floods](https://www.wri.org/aqueduct/floods) research programme, conducted by the World Resources Institute (WRI) & a consortium of partners. Relevant documentation is [here](https://www.wri.org/research/aqueduct-floods-methodology).
+*Data for this map come from the [Aqueduct Floods](https://www.wri.org/aqueduct/floods) research programme, conducted by the World Resources Institute (WRI) & a consortium of partners. Relevant documentation is [here](https://www.wri.org/research/aqueduct-floods-methodology).*
 
 *Flood risk linked to subsidence was included. For riverine flood, I calculated the multi-model mean using projections from all 5 available General Circulation Models (GCMs). For coastal flood, I selected the 95th percentile value, singled out as default by WRI. Both maps show floods with a 10-year return period, i.e. a 10% Annual Exceedance Probability (AEP). 1-(0.9^10) ≈ 0.65 <=> A flood associated with a 10% AEP is 65% likely to occur in any 10-year period.*
 
@@ -44,8 +43,7 @@ These maps of India and the Netherlands show the extent of a flood that will hav
 
 
 
-
-# - High-resolution flood modelling over the Seine river basin (TRI)
+### - High-resolution flood modeling over the Seine river basin
 
 What you see below is the extent of flood under scenario 1.4, dubbed "extreme", as seen in a geobrowser. I used darker colors to depict higher levels of flood.
 
@@ -57,7 +55,7 @@ What you see below is the extent of flood under scenario 1.4, dubbed "extreme", 
 
 
 
-# - Web application: an interactive map for climate hazards, biodiversity-rich areas and critical infrastructure
+### - Web application: an interactive map for climate hazards, biodiversity-rich areas and critical infrastructure
 
 Just before this snapshot was taken, a bunch of map layers for the South-Eastern region of France were selected.
 
