@@ -3,12 +3,12 @@ title: Static maps
 author_profile: false
 permalink: /static_maps/
 header:
-  image: /assets/images/long_image.jpg
+  image: /assets/images/header_image2.jpg
 ---
 
 
 
-### Drought risk for power plants (CNRM - CLIMSEC)
+### - Drought risk for power plants (CNRM - CLIMSEC)
 
 These maps show the change in the drought index in France in winter over time (columns) and across climate scenarios (rows).
 
