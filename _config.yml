@@ -58,6 +58,9 @@ author:
   avatar : "/assets/images/my_avatar.jpeg"
   bio    : " " # My awesome biography constrained to a sentence or two goes here
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:palandriflorence@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/florence-palandri"
@@ -66,13 +69,6 @@ author:
       url: "https://github.com/fpalandri"
 
 footer:
-  links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/florence-palandri"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fpalandri"
 
 defaults:
   # _posts
