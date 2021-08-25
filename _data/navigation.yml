@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Static maps"
+    url: /static_maps/
+  - title: "Dynamic globe"
+    url: /spiky_globe/
+  - title: "Flood simulation"
+    url: https://fpalandri.github.io/404
