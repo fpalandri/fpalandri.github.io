@@ -5,6 +5,7 @@ permalink: /static_maps/
 header:
   image: /assets/images/header_image2.jpg
 toc: true
+toc_icon: /assets/icons/map1.png
 ---
 
 
